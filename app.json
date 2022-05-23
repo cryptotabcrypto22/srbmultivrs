@@ -1,7 +1,7 @@
 {
-  "name": "VNX",
+  "name": "SRB",
   "description": "Deploy Template to Heroku.",
-  "keywords": ["VNX", "Docker"],
+  "keywords": ["SRB", "Docker"],
   "env": {
   },
   "website": "",
